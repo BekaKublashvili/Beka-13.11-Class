@@ -1,0 +1,67 @@
+body{
+    background-color: #f3f3f3;
+}
+.title span{
+    font-weight: lighter;
+}
+.title{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.middle{
+
+font-size: 20px;
+text-align: center;
+
+}
+.input1 input{
+font-size: 20px;
+height: 30px;
+border-radius: 5px;
+}
+.input1 button{
+    width: 260px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+.input1{
+    background-color: #ffffff;
+    width: 260px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.inputs{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.input2 input{
+font-size: 20px;
+height: 30px;
+border-radius: 5px;
+}
+.input2 button{
+    width: 260px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #2986f5;
+    border: none;
+}
+.input2{
+    background-color: #ffffff;
+    width: 260px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.buttons img{
+width: 100px;
+height: 100px;
+
+}
+.buttons{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
